@@ -1,4 +1,3 @@
-markdown
 # Riaz Wajar | Professional Portfolio
 
 ### 🎯 Mission
